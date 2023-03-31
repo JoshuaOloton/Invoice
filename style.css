@@ -4,7 +4,8 @@
     --darkWhite: #ccc;
     --black: #000000;
     --dark: #615c60;
-    --themeColor: #22b8d1;
+    /* --themeColor: #22b8d1; */
+    --themeColor: rgb(158, 122, 4);
     --pageShadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
 }
 
@@ -96,7 +97,7 @@ body {
     font-weight: 600;
 }
 
-.store-user .address {
+.store-user .email {
     font-weight: 400;
 }
 
